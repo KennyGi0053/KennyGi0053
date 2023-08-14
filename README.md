@@ -20,6 +20,16 @@ Tecnologias utilizadas: HTML, CSS, REACTJS, REDUX, EXPRESS, SEQUELIZE, POSTGRESQ
 
 Tecnologias utilizadas: HTML, CSS, REACTJS, VITE, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
 
+## Soft Skills 💬
+
+- **Comunicación Efectiva:** Capaz de explicar conceptos técnicos de manera clara y comprensible tanto para equipos de desarrollo como para clientes y usuarios finales.
+
+- **Trabajo en Equipo:** Experiencia en colaborar en equipos multidisciplinarios para lograr objetivos comunes y resolver problemas de manera eficiente.
+
+- **Adaptabilidad:** Capacidad para enfrentar nuevos desafíos y aprender rápidamente, manteniendo un alto nivel de productividad en entornos dinámicos.
+
+- **Resolución de Problemas:** Enfoque creativo para abordar obstáculos, buscando soluciones efectivas y optimizando procesos.
+
 ## Contacto 📫
 
 ¡Me encantaría estar en contacto contigo! Puedes encontrarme en las siguientes plataformas:
