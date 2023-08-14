@@ -14,6 +14,7 @@
 ## Proyectos Destacados 🌟
 
 - [Videogames](https://pi-videogame-kennygabriel00-gmailcom.vercel.app/) - Proyecto individual durante el Bootcamp de Soy Henry el cual realicé una app de video juegos con información suministrada desde una apiRest, el mismo cuenta con landingPage, Home, y Creador de videojuegos atraves de un formulario,
+
 Tecnologias utilizadas: HTML, CSS, REACTJS, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
   
 - [Ticket Show](https://ticket-show.netlify.app/) - Proyecto Final durante el Bootcamp Soy Henry, realizando una app hermosa para compra de boletos para eventos musicales, la misma cuenta con carrusel para publicidad de eventos, filtros combinados, ordenamientos, SearchBar, calendario, carrito de compras, método de pago con Paypal, DashBoard Admin, perfiles de usuarios, formulario de artista para la creación de eventos, detalles de eventos.
