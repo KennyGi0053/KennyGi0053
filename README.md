@@ -1,16 +1,31 @@
-### Hi there 👋
+## ¡Hola, soy Kenny Perez 👋
+ 
+## Desarrollador Web Full Stack 💻
 
-<!--
-**KennyGi0053/KennyGi0053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web full stack con experiencia en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es combinar creatividad y funcionalidad para ofrecer experiencias de usuario excepcionales.
 
-Here are some ideas to get you started:
+## Habilidades y Tecnologías 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React.js, Redux
+- **Backend:** Node.js, Express.js, Sequelize
+- **Bases de Datos:** PostgreSQL
+- **Herramientas y Otros:** Git, GitHub, VS Code
+
+## Proyectos Destacados 🌟
+
+- [Videogames](https://pi-videogame-kennygabriel00-gmailcom.vercel.app/) - Proyecto individual durante el Bootcamp de Soy Henry el cual realicé una app de video juegos con información suministrada desde una apiRest, el mismo cuenta con landingPage, Home, y Creador de videojuegos atraves de un formulario,
+Tecnologias utilizadas: HTML, CSS, REACTJS, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
+  
+- [Ticket Show](https://ticket-show.netlify.app/) - Proyecto Final durante el Bootcamp Soy Henry, realizando una app hermosa para compra de boletos para eventos musicales, la misma cuenta con carrusel para publicidad de eventos, filtros combinados, ordenamientos, SearchBar, calendario, carrito de compras, método de pago con Paypal, DashBoard Admin, perfiles de usuarios, formulario de artista para la creación de eventos, detalles de eventos.
+
+Tecnologias utilizadas: HTML, CSS, REACTJS, VITE, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
+
+## Contacto 📫
+
+¡Me encantaría estar en contacto contigo! Puedes encontrarme en las siguientes plataformas:
+
+- LinkedIn: [Kenny Perez](https://www.linkedin.com/in/kenny-p%C3%A9rez-75760118b/)
+
+No dudes en explorar mis repositorios y proyectos para obtener una idea más completa de mi trabajo. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
+
+¡Gracias por visitar mi perfil! 😊👋
