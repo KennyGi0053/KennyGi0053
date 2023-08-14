@@ -2,7 +2,7 @@
  
 ## Desarrollador Web Full Stack 💻
 
- ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web full stack con experiencia en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es combinar creatividad y funcionalidad para ofrecer experiencias de usuario excepcionales.
+ ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web full stack con experiencia en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es combinar creatividad y funcionalidad para ofrecer interfaces de usuario excepcionales.
 
 ## Habilidades y Tecnologías 🚀
 
