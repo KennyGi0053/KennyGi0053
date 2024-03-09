@@ -37,7 +37,7 @@ Tecnologias utilizadas: HTML, CSS, REACTJS, VITE, REDUX, EXPRESS, SEQUELIZE, POS
 
 ¡Me encantaría estar en contacto contigo! Puedes encontrarme en las siguientes plataformas:
 
-- LinkedIn: [Kenny Perez](https://www.linkedin.com/in/kenny-p%C3%A9rez-75760118b/)
+- LinkedIn: [Kenny Perez]([https://www.linkedin.com/in/kenny-p%C3%A9rez-75760118b/](https://www.linkedin.com/in/kenny-gabriel-p%C3%A9rez-rosales-75760118b/))
 
 No dudes en explorar mis repositorios y proyectos para obtener una idea más completa de mi trabajo. Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 
