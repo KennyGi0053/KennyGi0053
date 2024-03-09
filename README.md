@@ -19,6 +19,8 @@ Tecnologias utilizadas: HTML, CSS, REACTJS, REDUX, EXPRESS, SEQUELIZE, POSTGRESQ
   
 - [Ticket Show](https://ticket-show.netlify.app/) - Proyecto Final durante el Bootcamp Soy Henry, realizando una app hermosa E-Comerce de boletos para eventos musicales, la misma cuenta con carrusel para publicidad de eventos, filtros combinados, ordenamientos, SearchBar, calendario, carrito de compras, método de pago con Paypal, DashBoard Admin, perfiles de usuarios, formulario de artista para la creación de eventos, detalles de eventos.
 
+- [Mi Mundo Curso]([https://ticket-show.netlify.app/](https://mimundocurso.vercel.app/)) -Página web e-commerce especializada en la venta de cursos online. Proyecto Freelance para cliente.
+
 Tecnologias utilizadas: HTML, CSS, REACTJS, VITE, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
 
 ## Soft Skills 💬
