@@ -23,7 +23,7 @@ Tecnologias utilizadas: HTML, CSS, REACTJS, REDUX, EXPRESS, SEQUELIZE, POSTGRESQ
 
 Tecnologias utilizadas: HTML, CSS, REACTJS, VITE, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
 
-- [Especial Shopi](https://especial-shopi-i5o5.vercel.app/)) -Página web e-commerce especializada en la venta de productos.
+- [Especial Shopi](https://especial-shopi-i5o5.vercel.app/) -Página web e-commerce especializada en la venta de productos.
 
 Tecnologias utilizadas: HTML, TAILWIND CSS, REACTJS, VITE, NODEJS.
 
