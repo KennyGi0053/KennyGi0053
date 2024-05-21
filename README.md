@@ -23,6 +23,10 @@ Tecnologias utilizadas: HTML, CSS, REACTJS, REDUX, EXPRESS, SEQUELIZE, POSTGRESQ
 
 Tecnologias utilizadas: HTML, CSS, REACTJS, VITE, REDUX, EXPRESS, SEQUELIZE, POSTGRESQL, NODEJS.
 
+- [Especial Shopi]([https://mimundocurso.vercel.app/](https://especial-shopi-i5o5.vercel.app/)) -Página web e-commerce especializada en la venta de productos.
+
+Tecnologias utilizadas: HTML, TAILWIND CSS, REACTJS, VITE, NODEJS.
+
 ## Soft Skills 💬
 
 - **Comunicación Efectiva:** Capaz de explicar conceptos técnicos de manera clara y comprensible tanto para equipos de desarrollo como para clientes y usuarios finales.
